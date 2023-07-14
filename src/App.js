@@ -1,14 +1,16 @@
-import { useEffect, useState } from "react";
-import TableView from "./components/api";
 import "./App.css";
-import Timer from "./components/Timer";
 import NavigationLG from "./components/NavigationLG";
 import TopHeader from "./components/TopHeader";
-import FirstBanner from "./components/FirstBanner";
 import Hero from "./components/Hero";
 import Section2 from "./components/Section2";
 import Grid from "./components/Grid";
-import CategoryFilter from "./components/CategoryFilter";
+import Logo from "./components/Logo";
+// import TableView from "./components/api";
+// import { useEffect, useState } from "react";
+// import Timer from "./components/Timer";
+// import CategoryFilter from "./components/CategoryFilter";
+// import FirstBanner from "./components/FirstBanner";
+
 // import Form2 from "./components/Form2";
 // import Form3 from "./components/Form3";
 // import Form4 from "./components/Form4";
@@ -73,6 +75,9 @@ function App() {
       </table> */}
       {/* <TableView></TableView> */}
       {/* <Timer></Timer> */}
+      <div className="sticky top-0 bg-white py-2 px-28 md:hidden">
+        <Logo />
+      </div>
       <TopHeader></TopHeader>
       <NavigationLG></NavigationLG>
       <Hero />

@@ -4,7 +4,7 @@ import { IoMdArrowDropdown } from "react-icons/io";
 
 function CategoryFilter() {
   return (
-    <div className="bg-white sticky top-0 w-full px-5 max-h-full pt-10 flex flex-col justify-start gap-5 items-start">
+    <div className="sticky top-0 md:top-16 w-full px-2 md:px-5 pt-10 flex flex-col justify-start gap-5 items-start">
       <div className="flex w-full  gap-3 justify-between items-center">
         <div className="flex gap-4">
           <CiApple size={25} />

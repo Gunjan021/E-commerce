@@ -24,12 +24,17 @@ function NavigationLG() {
         <li>Sale</li>
         <li>Buy Umino!</li>
       </ul>
-      <div className="flex md:gap-2 lg:gap-3">
+      <div className="flex items-center md:gap-2 lg:gap-3">
         <FiSearch size={20} />
         <BiUser size={20} />
         <IoMdTime size={20} />
         <FcLike size={20} />
-        <AiOutlineShoppingCart size={20} />
+        <div>
+          <AiOutlineShoppingCart size={20} />
+        </div>
+        <div className="absolute top-3 right-2 px-1  rounded-full bg-red-600 text-center text-white">
+          1
+        </div>
       </div>
     </div>
   );

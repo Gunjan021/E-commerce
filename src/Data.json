@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=1920&q=75",
+    "title": "Apple",
+    "price": 9,
+    "quentity": 0
+  },
+  {
+    "id": 2,
+    "image": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=1920&q=75",
+    "title": "Apple",
+    "price": 9,
+    "quentity": 0
+  },
+  {
+    "id": 3,
+    "image": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=1920&q=75",
+    "title": "Apple",
+    "price": 9,
+    "quentity": 0
+  },
+  {
+    "id": 4,
+    "image": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=1920&q=75",
+    "title": "Apple",
+    "price": 9,
+    "quentity": 0
+  },
+  {
+    "id": 5,
+    "image": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=1920&q=75",
+    "title": "Apple",
+    "price": 9,
+    "quentity": 0
+  },
+  {
+    "id": 6,
+    "image": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=1920&q=75",
+    "title": "Apple",
+    "price": 9,
+    "quentity": 0
+  },
+  {
+    "id": 7,
+    "image": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=1920&q=75",
+    "title": "Apple",
+    "price": 9,
+    "quentity": 0
+  },
+  {
+    "id": 8,
+    "image": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=1920&q=75",
+    "title": "Apple",
+    "price": 9,
+    "quentity": 0
+  },
+  {
+    "id": 9,
+    "image": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=1920&q=75",
+    "title": "Apple",
+    "price": 9,
+    "quentity": 0
+  }
+]
